@@ -1,0 +1,9 @@
+openai
+faiss-cpu
+numpy
+requests
+flask
+sentence-transformers
+tqdm
+pymupdf
+dotenv
